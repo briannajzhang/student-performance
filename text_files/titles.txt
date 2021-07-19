@@ -1,0 +1,24 @@
+School vs. Final Grades
+Sex vs. Final Grades
+Address vs. Final Grades
+Family Size vs. Final Grades
+Parental Cohabitation Status vs. Final Grades
+Mother's Education vs. Final Grades
+Father's Education vs. Final Grades
+Travel Time vs. Final Grades
+Study Time vs. Final Grades
+Past Failures vs. Final Grades
+School Support vs. Final Grades
+Family Support vs. Final Grades
+Paid Classes vs. Final Grades
+Extra-curricular Activities vs. Final Grades
+Nursery School vs. Final Grades
+Higher Education vs. Final Grades
+Internet Access vs. Final Grades
+Romantic Relationship vs. Final Grades
+Family Relationships vs. Final Grades
+Free Time vs. Final Grades
+Going Out vs. Final Grades
+Workday Alcohol Consumption vs. Final Grades
+Weekday Alcohol Consumption vs. Final Grades
+Health Status vs. Final Grades

@@ -1,0 +1,24 @@
+School
+Sex
+Address
+Family Size
+Parental Cohabitation Status
+Mother's Education 
+Father's Education
+Travel Time to School
+Weekly Study Time
+Number of Past Failures
+Extra Educational Support
+Family Educational Support
+Extra Paid Classes
+Extra-curricular Activities
+Attended Nursery School
+Plans to Pursue Higher Education
+Internet Access
+In Romantic Relationship
+Quality of Family Relationships
+Free Time After School
+Going Out w/ Friends
+Workday Alcohol Consumption
+Weekday Alcohol Consumption
+Current Health Statuss
