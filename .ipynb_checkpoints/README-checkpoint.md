@@ -6,6 +6,7 @@ You can view the data <a href ="https://archive.ics.uci.edu/ml/datasets/Student+
 *P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 5th Future Business Technology Conference (FUBUTEC 2008) pp. 5-12, Porto, Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7.*
 
 Please install these dependencies to smoothly & successfully run the notebook: 
+
 **Data Visualization:**
 * <a href="https://matplotlib.org/">Matplotlib</a>
 * <a href="https://seaborn.pydata.org/">seaborn</a>
