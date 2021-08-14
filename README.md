@@ -7,14 +7,15 @@ You can view the data <a href ="https://archive.ics.uci.edu/ml/datasets/Student+
 
 Please install these dependencies to smoothly & successfully run the notebook: 
 
-**Data Visualization:**
+**Data Visualization & Analysis:**
 * <a href="https://matplotlib.org/">Matplotlib</a>
-* <a href="https://seaborn.pydata.org/">seaborn</a>
 * <a href="https://numpy.org/">NumPy</a>
+* <a href="https://pandas.pydata.org/">pandas</a>
+* <a href="https://seaborn.pydata.org/">seaborn</a>
 
 **Model Creation & Analysis:**
-* <a href="https://pandas.pydata.org/">pandas</a>
 * <a href="https://scikit-learn.org/stable/">scikit-learn</a>
+* <a href="https://spark.apache.org/">Apache Spark</a> and <a href="https://spark.apache.org/docs/latest/api/python/">PySpark</a>
 * <a href="https://shap.readthedocs.io/en/latest/index.html">SHAP</a>
 
 Make sure you have the newest versions of ```pip```, ```python3```, and <a href="https://jupyter.org/">Jupyter Notebook</a> installed as well. 
